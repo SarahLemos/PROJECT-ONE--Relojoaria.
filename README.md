@@ -22,4 +22,5 @@ Este projeto é licenciado sob a Licença MIT.
 
 Developed by **Sarah Gabriela Lemos, Isaque Klehm, Felipe de Lima e Gabriel Casagrande**.  
 E-mail: srlemos16@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/sarah-gabriela-lemos-289251236/
