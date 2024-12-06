@@ -46,11 +46,11 @@ Abaixo está os modelos de banco de dados.
 
 **Modelo conceitual**
 ---
-![Modelo conceitual](https://github.com/Sarahlemonede09/PROJETO-RELOJOARIA/blob/main/MODELO-CONCEITUAL.BD.pdf)
+![Modelo conceitual](https://github.com/SarahLemos/PROJECT-ONE--Relojoaria./blob/main/MODELO-CONCEITUAL.BD.png)
 
 **Modelo Físico**
 ---
-![Modelo Físico](https://github.com/Sarahlemonede09/PROJETO-RELOJOARIA/blob/main/TABELA-FISICA.BD.pdf)
+![Modelo Físico](https://github.com/SarahLemos/PROJECT-ONE--Relojoaria./blob/main/TABELA-FISICA.BD.png)
 
 ---
 
